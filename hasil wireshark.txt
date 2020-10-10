@@ -1,0 +1,20 @@
+THROUGHPUT
+- Bytes : Time span,s = Average bytes/s
+- Average bytes/s x 8 = Average bit/s
+
+- 1677263 : 16.746 = 100 k
+- 100.159 x 8 = 801 k
+
+PACKET LOSS
+- ((Paket dikirim-paket diterima) : paket diterima) x100
+- Tidak ada paket loss atau 0%
+
+DELAY
+- Time 2 - Time 1 
+- total dlay = -5,45443e-07
+- rata-rata delay = -2,89513E-10
+
+JITTER
+- total jitter = -1,09115E-06
+- rata-rata jitter = -5,79165E-10
+
